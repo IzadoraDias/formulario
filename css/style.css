@@ -1,0 +1,16 @@
+/*GERAL*/
+form{
+    width: 500px;
+    margin: 0  auto;
+    padding-top: 90px;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    color: rgb(82, 77, 77);
+    
+}
+
+.input[type="submit"] {
+    display: block;
+    background-color: purple;
+    border-radius: 5px;
+}
+
